@@ -1,0 +1,30 @@
+:root {
+    --spacing-0: 0;
+    --spacing-1: .1rem;
+    --spacing-2: .2rem;
+    --spacing-3: .3rem;
+    --spacing-4: .5rem;
+    --spacing-5: .8rem;
+    --spacing-6: 1.3rem;
+    --spacing-7: 2.1rem;
+    --spacing-8: 3.4rem;
+    --spacing-9: 5.5rem;
+    --spacing-10: 8.9rem;
+    --spacing-11: 14.4rem;
+    --spacing-12: 23.3rem;
+    --spacing-13: 37.7rem;
+    --spacing-14: 61.0rem;
+    --spacing-15: 98.7rem;
+    --spacing-16: 159.7rem;
+
+    --font-size-1: 0.8rem;
+    --font-size-2: 1.024rem;
+    --font-size-3: 1.310rem;
+    --font-size-4: 1.677rem;
+    --font-size-5: 2.147rem;
+    --font-size-6: 2.748rem;
+    --font-size-7: 3.518rem;
+    --font-size-8: 4.503rem;
+    --font-size-9: 5.764rem;
+    --font-size-10: 7.378rem;
+  }
