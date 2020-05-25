@@ -1,10 +1,10 @@
 {
   "name": "cria-tachyons",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Functional CSS for humans",
   "author": "mrmrs",
   "style": "css/tachyons.min.css",
-  "main": "css/tachyons.css",
+  "main": "css/tachyons.min.css",
   "files": [
     "css",
     "src"
