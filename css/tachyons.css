@@ -792,11 +792,22 @@ code, .code { font-family: Consolas, monaco, monospace; }
 
 */
 /* Height Scale */
-.h1 { height: 1rem; }
-.h2 { height: 2rem; }
-.h3 { height: 4rem; }
-.h4 { height: 8rem; }
-.h5 { height: 16rem; }
+.h1 { height: .1rem; }
+.h2 { height: .2rem; }
+.h3 { height: .3rem; }
+.h4 { height: .5rem; }
+.h5 { height: .8rem; }
+.h6 { height: 1.3rem; }
+.h7 { height: 2.1rem; }
+.h8 { height: 3.4rem; }
+.h9 { height: 5.5rem; }
+.h10 { height: 8.9rem; }
+.h11 { height: 14.4rem; }
+.h12 { height: 23.3rem; }
+.h13 { height: 37.7rem; }
+.h14 { height: 61.0rem; }
+.h15 { height: 98.7rem; }
+.h16 { height: 159.7rem; }
 /* Height Percentages - Based off of height of parent */
 .h-25 { height: 25%; }
 .h-50 { height: 50%; }
@@ -2190,11 +2201,22 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .fw7-ns { font-weight: 700; }
  .fw8-ns { font-weight: 800; }
  .fw9-ns { font-weight: 900; }
- .h1-ns { height: 1rem; }
- .h2-ns { height: 2rem; }
- .h3-ns { height: 4rem; }
- .h4-ns { height: 8rem; }
- .h5-ns { height: 16rem; }
+ .h1-ns { height: .1rem; }
+ .h2-ns { height: .2rem; }
+ .h3-ns { height: .3rem; }
+ .h4-ns { height: .5rem; }
+ .h5-ns { height: .8rem; }
+ .h6-ns { height: 1.3rem; }
+ .h7-ns { height: 2.1rem; }
+ .h8-ns { height: 3.4rem; }
+ .h9-ns { height: 5.5rem; }
+ .h10-ns { height: 8.9rem; }
+ .h11-ns { height: 14.4rem; }
+ .h12-ns { height: 23.3rem; }
+ .h13-ns { height: 37.7rem; }
+ .h14-ns { height: 61.0rem; }
+ .h15-ns { height: 98.7rem; }
+ .h16-ns { height: 159.7rem; }
  .h-25-ns { height: 25%; }
  .h-50-ns { height: 50%; }
  .h-75-ns { height: 75%; }
@@ -2828,11 +2850,22 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .fw7-m { font-weight: 700; }
  .fw8-m { font-weight: 800; }
  .fw9-m { font-weight: 900; }
- .h1-m { height: 1rem; }
- .h2-m { height: 2rem; }
- .h3-m { height: 4rem; }
- .h4-m { height: 8rem; }
- .h5-m { height: 16rem; }
+ .h1-ns { height: .1rem; }
+ .h2-ns { height: .2rem; }
+ .h3-ns { height: .3rem; }
+ .h4-ns { height: .5rem; }
+ .h5-ns { height: .8rem; }
+ .h6-ns { height: 1.3rem; }
+ .h7-ns { height: 2.1rem; }
+ .h8-ns { height: 3.4rem; }
+ .h9-ns { height: 5.5rem; }
+ .h10-ns { height: 8.9rem; }
+ .h11-ns { height: 14.4rem; }
+ .h12-ns { height: 23.3rem; }
+ .h13-ns { height: 37.7rem; }
+ .h14-ns { height: 61.0rem; }
+ .h15-ns { height: 98.7rem; }
+ .h16-ns { height: 159.7rem; }
  .h-25-m { height: 25%; }
  .h-50-m { height: 50%; }
  .h-75-m { height: 75%; }
@@ -3466,11 +3499,22 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .fw7-l { font-weight: 700; }
  .fw8-l { font-weight: 800; }
  .fw9-l { font-weight: 900; }
- .h1-l { height: 1rem; }
- .h2-l { height: 2rem; }
- .h3-l { height: 4rem; }
- .h4-l { height: 8rem; }
- .h5-l { height: 16rem; }
+ .h1-ns { height: .1rem; }
+ .h2-ns { height: .2rem; }
+ .h3-ns { height: .3rem; }
+ .h4-ns { height: .5rem; }
+ .h5-ns { height: .8rem; }
+ .h6-ns { height: 1.3rem; }
+ .h7-ns { height: 2.1rem; }
+ .h8-ns { height: 3.4rem; }
+ .h9-ns { height: 5.5rem; }
+ .h10-ns { height: 8.9rem; }
+ .h11-ns { height: 14.4rem; }
+ .h12-ns { height: 23.3rem; }
+ .h13-ns { height: 37.7rem; }
+ .h14-ns { height: 61.0rem; }
+ .h15-ns { height: 98.7rem; }
+ .h16-ns { height: 159.7rem; }
  .h-25-l { height: 25%; }
  .h-50-l { height: 50%; }
  .h-75-l { height: 75%; }
