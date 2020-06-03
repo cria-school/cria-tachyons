@@ -46,11 +46,11 @@
 
 /* Background colors */
 
-.bg-blue {          color: var(--blue) }
-.bg-pink {          color: var(--pink) }
-.bg-purple {        color: var(--purple) }
-.bg-dark-purple {   color: var(--dark-purple) }
-.bg-green {         color: var(--green) }
+.bg-blue {          background-color: var(--blue) }
+.bg-pink {          background-color: var(--pink) }
+.bg-purple {        background-color: var(--purple) }
+.bg-dark-purple {   background-color: var(--dark-purple) }
+.bg-green {         background-color: var(--green) }
 
 .bg-black-90 {      background-color: var(--black-90) }
 .bg-black-80 {      background-color: var(--black-80) }
