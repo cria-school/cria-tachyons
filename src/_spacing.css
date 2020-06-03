@@ -142,6 +142,10 @@
 .ma15   { margin: var(--spacing-15) }
 .ma16   { margin: var(--spacing-16) }
 
+
+.ml-auto,
+.mh-auto     { margin-left: auto  }
+
 .ml0,.mh0    { margin-left: var(--spacing-0)  }
 .ml1,.mh1    { margin-left: var(--spacing-1)  }
 .ml2,.mh2    { margin-left: var(--spacing-2)  }
@@ -159,6 +163,10 @@
 .ml14,.mh14  { margin-left: var(--spacing-14) }
 .ml15,.mh15  { margin-left: var(--spacing-15) }
 .ml16,.mh16  { margin-left: var(--spacing-16) }
+
+
+.mr-auto,
+.mh-auto     { margin-right: auto  }
 
 .mr0,.mh0    { margin-right: var(--spacing-0)  }
 .mr1,.mh1    { margin-right: var(--spacing-1)  }
@@ -324,6 +332,10 @@
     .ma15-ns   { margin: var(--spacing-15) }
     .ma16-ns   { margin: var(--spacing-16) }
     
+
+    .ml-auto-ns,
+    .mh-auto-ns        { margin-left: auto  }
+
     .ml0-ns,.mh0-ns    { margin-left: var(--spacing-0)  }
     .ml1-ns,.mh1-ns    { margin-left: var(--spacing-1)  }
     .ml2-ns,.mh2-ns    { margin-left: var(--spacing-2)  }
@@ -342,6 +354,10 @@
     .ml15-ns,.mh15-ns  { margin-left: var(--spacing-15) }
     .ml16-ns,.mh16-ns  { margin-left: var(--spacing-16) }
     
+
+    .mr-auto-ns,
+    .mh-auto-ns        { margin-right: auto }
+
     .mr0-ns,.mh0-ns    { margin-right: var(--spacing-0)  }
     .mr1-ns,.mh1-ns    { margin-right: var(--spacing-1)  }
     .mr2-ns,.mh2-ns    { margin-right: var(--spacing-2)  }
@@ -506,6 +522,10 @@
     .ma15-m   { margin: var(--spacing-15) }
     .ma16-m   { margin: var(--spacing-16) }
     
+
+    .ml-auto-m,
+    .mh-auto-m       { margin-left: auto }
+
     .ml0-m,.mh0-m    { margin-left: var(--spacing-0)  }
     .ml1-m,.mh1-m    { margin-left: var(--spacing-1)  }
     .ml2-m,.mh2-m    { margin-left: var(--spacing-2)  }
@@ -524,6 +544,10 @@
     .ml15-m,.mh15-m  { margin-left: var(--spacing-15) }
     .ml16-m,.mh16-m  { margin-left: var(--spacing-16) }
     
+
+    .mr-auto-m,
+    .mh-auto-m       { margin-right: auto }
+
     .mr0-m,.mh0-m    { margin-right: var(--spacing-0)  }
     .mr1-m,.mh1-m    { margin-right: var(--spacing-1)  }
     .mr2-m,.mh2-m    { margin-right: var(--spacing-2)  }
@@ -688,6 +712,10 @@
     .ma15-l   { margin: var(--spacing-15) }
     .ma16-l   { margin: var(--spacing-16) }
     
+
+    .ml-auto-l,
+    .mh-auto-l       { margin-left: auto }
+
     .ml0-l,.mh0-l    { margin-left: var(--spacing-0)  }
     .ml1-l,.mh1-l    { margin-left: var(--spacing-1)  }
     .ml2-l,.mh2-l    { margin-left: var(--spacing-2)  }
@@ -706,6 +734,10 @@
     .ml15-l,.mh15-l  { margin-left: var(--spacing-15) }
     .ml16-l,.mh16-l  { margin-left: var(--spacing-16) }
     
+
+    .mr-auto-l,
+    .mh-auto-l       { margin-right: auto }
+
     .mr0-l,.mh0-l    { margin-right: var(--spacing-0)  }
     .mr1-l,.mh1-l    { margin-right: var(--spacing-1)  }
     .mr2-l,.mh2-l    { margin-right: var(--spacing-2)  }
